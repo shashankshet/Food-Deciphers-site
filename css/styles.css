@@ -1,0 +1,35 @@
+body{
+  font-family: 'Montserrat';
+}
+
+#title{
+ background-color: Black;
+}
+
+h1{
+  font-family: 'Montserrat-Black', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: white;
+  text-align: right;
+
+}
+h3 {
+  font-family: 'Montserrat';
+}
+.container-fluid{
+
+}
+a{
+  font-family: 'Montserrat-Bold';
+  color: Black;
+}
+a:link { text-decoration: none; }
+
+#features{
+  padding: 7% 15%;
+}
+.features-box{
+  text-align: center;
+  padding: 5%;
+}
