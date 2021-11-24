@@ -33,3 +33,32 @@ a:link { text-decoration: none; }
   text-align: center;
   padding: 5%;
 }
+#testimonials{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: Black;
+  color: white;
+}
+h2{
+  font-size: "Montserrat-Bold";
+  font-size: 3rem;
+  line-height: 1.5;
+  padding-bottom: 1.5rem;
+}
+
+@media (max-width: 540px) {
+  #title{
+    text-align: center;
+  }
+  .container-fluid{
+    text-align: center;
+  }
+
+}
+#footer{
+  background-color: Black;
+  color: white;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  border-bottom: 0px;
+}
