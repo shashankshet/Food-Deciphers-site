@@ -46,11 +46,22 @@ h2{
   padding-bottom: 1.5rem;
 }
 
-@media (max-width: 540px) {
-  #title{
+@media (max-width: 500px) {
+  .container-fluid{
+    text-align: center;
+
+  justify-content: center;
+  align-items: center;
+  }
+  .col-lg-6{
+    align-items:center;
+    text-align: center;
+    justify-content: center;
+  }
+  h1{
     text-align: center;
   }
-  .container-fluid{
+  .buttons{
     text-align: center;
   }
 
